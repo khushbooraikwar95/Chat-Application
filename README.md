@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+
+This Chat Application is developed using Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
