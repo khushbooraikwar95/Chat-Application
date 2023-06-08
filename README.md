@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+Watch Demo : https://khushboo-chit-chat-application.netlify.app/
+
+image.png
+
+image.png
+
+image.png
+
+image.png
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
