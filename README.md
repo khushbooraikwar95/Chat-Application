@@ -1,7 +1,34 @@
 # Getting Started with Create React App
 
 
+Watch Demo : https://khushboo-chit-chat-application.netlify.app/
+Credentials: 1. username: Khushboo, password: 1234
+             2. username: Vicky, password: 4321
+use this website to add credentials: https://chatengine.io/projects/b8b7221a-02a3-4cf2-8413-96894de68daf#users
+
+Please find the below attchaments related to chat-applications:
+1. Login page
+![image](https://github.com/khushbooraikwar95/Chat-Application/assets/35090657/e3f3ca08-40ae-4df1-9ae2-dcbb236ed9f1)
+
+2. Login with Credentials:
+![image](https://github.com/khushbooraikwar95/Chat-Application/assets/35090657/108eb96d-08b0-423b-8e7a-0b5a94c7ee94)
+
+
+3. Chat room:
+![image](https://github.com/khushbooraikwar95/Chat-Application/assets/35090657/81e8b25f-d608-4b3a-b69e-ecc1c3bd04a4)
+
+
+
+4. Login with different user and join the chat room:
+
+![image](https://github.com/khushbooraikwar95/Chat-Application/assets/35090657/3c30f4aa-6caf-4ffe-8017-9f459c3e1225)
+
+
+
+=======
+
 This Chat Application is developed using Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS!
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
